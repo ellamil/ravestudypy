@@ -1,1 +1,2 @@
-# ravestudypy
+# Python Prototype: The Rave / Disco Study
+The study examined group synchrony across a large number of individuals in a naturalistic environment. Smartphone acceleration measures were recorded from participants during a music set in a dance club. Different preprocessing and analyses methods were assessed for validity and reliability, and the relationship between group synchrony of movement and various features of the music were evaluated. <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164783">[Article]</a> <a href="http://www.pnas.org/content/113/43/11982.full">[Press]</a>
